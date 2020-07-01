@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Suraj Neupane suraj@neupane
 
 # THANKS
 
