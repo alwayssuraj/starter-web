@@ -10,5 +10,3 @@ Sample website with plenty of files for demos
 ## My document
 This is ti illustrate what I am doing
 
-##Adding new section
-This is to add new section
